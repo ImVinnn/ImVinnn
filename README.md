@@ -6,3 +6,5 @@ I'm interested in programming, software development, and exploring new technolog
 Currently learning Java, algorithms, and computer science fundamentals.
 
 🚀 Always learning and building.
+
+![Snake animation](https://github.com/ImVinnn/ImVinnn/blob/output/snake.svg)
