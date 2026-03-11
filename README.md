@@ -5,7 +5,7 @@ I'm interested in programming, software development, and exploring new technolog
 
 Currently learning Java, algorithms, and computer science fundamentals.
 
-🚀 Always learning and building.
+Always learning and building.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImVinnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
